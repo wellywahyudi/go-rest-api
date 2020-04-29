@@ -1,1 +1,1 @@
-# go-rest-api
+# Golang REST API JWT Stater Kit
